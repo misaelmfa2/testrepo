@@ -1,2 +1,2 @@
 # testrepo
-test of repository
+test of repository modified
